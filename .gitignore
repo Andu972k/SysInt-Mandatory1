@@ -501,3 +501,9 @@ FodyWeavers.xsd
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+#Computer specific
+.DS_Store
+
+#Python Venv
+*.cfg
